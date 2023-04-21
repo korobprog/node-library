@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korobprog/node-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korobprog/node-library/issues"
+  },
+  "homepage": "https://github.com/korobprog/node-library#readme",
+  "dependencies": {
+    "@korobprog/ajs": "^1.0.0"
+  }
+}
